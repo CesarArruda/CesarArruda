@@ -1,8 +1,8 @@
-<div>Olá! Eu sou o <strong>Cesar Arruda</strong><br>
+<div align="center">Olá! Eu sou o <strong>Cesar Arruda</strong><br>
 Seja bem vindo ao meu perfil do GitHub. 👋<br><br>
 
 Sou estudante de programação, e atualmente estou focado em aprender o Front-End.
-</div><br>
+<br>
 
 Se quiser saber mais sobre minhas experiencias, formações e certificados, <br>da uma olhadinha no meu Linkedin ↓ <div> 
   <a href="https://www.linkedin.com/in/cesar-arruda93" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,8 +18,8 @@ Principais ferramentas e linguagens que utilizo:
 
 <div align="center">
   <a href="https://github.com/CesarArruda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesararruda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesararruda&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesararruda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesararruda&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 </div>
 
 <!--
