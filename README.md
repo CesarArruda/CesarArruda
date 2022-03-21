@@ -1,5 +1,8 @@
-<div align="center">Olá! Eu sou o <strong>Cesar Arruda</strong><br>
-Seja bem vindo ao meu perfil do GitHub. 👋<br><br>
+<div align="center">
+<h2>
+  Olá! Eu sou o <strong>Cesar Arruda</strong><br>
+  Seja bem vindo ao meu perfil do GitHub. 👋<br><br>
+</h2>
 
 Sou estudante de programação, e atualmente estou focado em aprender o Front-End.
 <br>
