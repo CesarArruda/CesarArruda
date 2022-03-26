@@ -21,8 +21,8 @@ Principais ferramentas e linguagens que utilizo:
 
 <div align="center">
   <a href="https://github.com/CesarArruda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cesararruda&show_icons=true&theme=github_dark">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesararruda&layout=compact&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cesararruda&show_icons=true&theme=codeSTACKr">
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesararruda&layout=compact&theme=codeSTACKr"/>
 </div>
 </div>
 
